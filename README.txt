@@ -15,7 +15,11 @@ Easily duplicate or clone a widget with all of its settings in just one click.
 
 93digital’s widget duplicator plugin adds a ‘Clone’ link at the bottom of every widget. Simply click ‘Clone’ to make a copy of the widget that you can then drag and drop to another sidebar.
 
+<<<<<<< HEAD
 **PLEASE NOTE:**
+=======
+**NOTE:**
+>>>>>>> 691f4032b0de4941b5998715dc454c265c056894
 With the release of WordPress 5.8, the Widget area has had an overhaul and now uses it's own version of the Gutenberg editor. This sadly renders this plugin redundant as it is only built to work with the older widget area, plus the new area comes with widget duplication functionality as standard.
 
 To keep using the old widget area and this plugin, please add `remove_theme_support( 'widgets-block-editor' )` to the active theme's functions.php file. You should only do this if you know what you are doing!
