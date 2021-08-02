@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Widget Clone
- * Version: 1.1.3
+ * Version: 1.1.4
  * Plugin URI: http://93digital.co.uk/
  * Description: Easily duplicate or clone a widget with all of its settings in just one click.
  * Author: 93digital
